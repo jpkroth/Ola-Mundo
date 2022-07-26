@@ -1,14 +1,14 @@
-<html>
-
+<!DOCTYPE html>
+ <html<html lang="pt-br">
 <head>
   <title>
     Livro
   </title>
 </head>
-<doby>
-  <center>
-    <font color="red">
-      <h1>Racionais mc's</h1>
+  <body bgcolor="black">
+    <center>
+    <font size="20"color="red">
+                <h1>Racionais mc's</h1>
     </font>
     <img src="https://cdn.brasildefato.com.br/media/b584a10f6a5d715b2e8a0b66fb7f866d.jpg">
     <font color="White">
@@ -16,5 +16,5 @@
     </font>
   </center>
 </doby>
-
 </html>
+
